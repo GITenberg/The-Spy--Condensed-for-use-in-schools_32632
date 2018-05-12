@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/483
     wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32632#The-Spy--Condensed-for-use-in-schools
 gutenberg_issued: '2010-05-31'
 gutenberg_type: Text
 identifiers:
